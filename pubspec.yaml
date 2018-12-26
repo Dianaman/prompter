@@ -1,0 +1,8 @@
+name: prompter_dm
+version: 0.0.1
+description: Library to create CLI wizards
+author: Diana Man <diana.man.91@gmail.com>
+homepage: https://www.google.com
+
+environment:
+  sdk: '<3.0.0'
